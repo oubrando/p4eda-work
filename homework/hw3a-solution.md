@@ -29,6 +29,11 @@ My local repository is now connected to GitHub:
 - `git pull` will get updates from GitHub (if changes are made on GitHub)
 ### Details
 Complete this section with details from your setup:
-- Repository URL: ...
+- Repository URL: `https://github.com/oubrando/p4eda-work`
 - Output of `git remote -v`:
+    - `origin  https://github.com/oubrando/p4eda-work.git (fetch)`
+    - `origin  https://github.com/oubrando/p4eda-work.git (push)`
 - The output of `git log --oneline`:
+    - 45b5c64 (HEAD -> main, origin/main) Complete Part 3 documentation
+    - 7904d19 Add hw3a solution document
+    - cd05a0b Initial commit: Add README and .gitignore
